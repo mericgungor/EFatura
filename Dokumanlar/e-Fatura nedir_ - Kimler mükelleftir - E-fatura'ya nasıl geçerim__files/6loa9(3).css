@@ -1,0 +1,850 @@
+@media only screen and (max-width: 768px){.wpcf7-form .one-half{ margin-right: 0px !important; float: left; width: 100%; }}
+.display_none_alan{display:none;}
+#kvk-onur-myModal p, #kvk-onur-myModal b{color:black !important;}
+.one-half.last{float:right;}
+.bold_text_m h2, .bold_text_m h1{font-weight:bold !important;}
+.color_black h3, .color_black h2, .color_black h3{color:black !important;}
+.av_inherit_color h1,.av_inherit_color h2,.av_inherit_color h3, .av_inherit_color h2 b{color:inherit;}
+.beyaz_renk h3{color:white;}
+.text_color_white_h2 h2{color:white;}
+.togglecontainer span.toggle_icon{display:none;}
+.togglecontainer p.toggler{display:block;padding:10px 20px !important;padding-right:60px;letter-spacing:.2em;background-color:#6d6e70;}
+.togglecontainer .main_color .toggler:hover{border:1px solid #6d6e70ba;}
+.togglecontainer p.toggler{background-color:#6d6e70 !important;color:#ffffff !important;text-transform:uppercase !important;}
+.togglecontainer p.toggler.activeTitle{background-color:#63bc46 !important;}
+.avia-button-wrap.avia-button-center.avia-builder-el-13.el_after_av_image.avia-builder-el-last.w900{float:none;}
+.wpcf7-form .one-half{margin-right:5px;}
+@media only screen and (min-width: 768px) {
+.wpcf7-form .one-half{width:49%;display:inline-block;}
+}
+#newDiv{display:block;border-bottom:1px solid #ed1c24;background:#ed1c24;}
+#newDiv .av-layout-grid-container{max-width:96%;display:block;margin:0 auto;width:100%;text-align:right;}
+#newDiv .av-layout-grid-container p{margin:0px;font-weight:bold;padding:10px 20px;color:#fff;}
+#newDiv .av-layout-grid-container p a{color:#fff;text-decoration:underline;}
+.chats_whatsapp{width:70px;height:auto;display:block;line-height:10px !important;position:fixed;top:58.6%;right:0px;font-size:13px;color:#18970e!important;text-align:center;font-weight:bold;}
+.chats_whatsapp:hover .image-overlay{display:none !important;}
+.chats_whatsapp.desktop{display:none;}
+.chats_whatsapp.mobile{display:none;}
+@media only screen and (max-width: 768px) {
+.chats_whatsapp.desktop{display:none;}
+.chats_whatsapp.mobile{display:block;z-index:1;}
+.chats_whatsapp{width:30px;font-size:9px;text-align:right;}
+.chats_whatsapp img{max-width:100%;width:auto;margin:unset !important;float:right;}
+}
+.main_color .av-magazine-time,
+.footer_color p,
+.footer_color a{color:#fff !important;}
+#eticaretyonetimi .flex_column_table_cell{vertical-align:top;}
+#top .av-main-nav ul a{padding:3px 15px;}
+.finans-kapsayici{border-top:1px solid #f21a1f!important;}
+.main_color .toggler:hover{border:1px solid #ededed;}
+#top #wrap_all .main_menu .av-main-nav > li ul li a{font-size:12px;}
+.issistemleri .togglecontainer section.av_toggle_section:first-child div.single_toggle{height:75px;}
+.no-border{border:none!important;}
+#top .avia_wpml_language_switch{display:none!important;}
+.kulakcikfixed{position:fixed;top:45%;right:-66px;-moz-transform:rotate(-90deg);-ms-transform:rotate(-90deg);-o-transform:rotate(-90deg);-webkit-transform:rotate(-90deg);transform:rotate(-90deg);}
+.kulakcikfixed .avia-button.avia-size-x-large{padding:29px 50px 23px;}
+.text-right{text-align:left;}
+.text-right > h2{float:none;width:100%;text-align:left;font-weight:900;}
+.w900,.w900 > *{font-weight:900!important;}
+#top #breadcrumb_section.bread-z{z-index:1!important;}
+.c-icon-link-list--8 .icoborder.c-icon-link{width:13.5%;}
+.c-icon-link.icoborder .iconbox_icon:hover + .iconbox_content_title,.c-icon-link.finans-sayfa-ico.iconbox--active .iconbox_icon + .iconbox_content_title{background-color:transparent!important;}
+.c-icon-link.muhasebevecariveri-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/1n.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.dt-gumrukislemleri-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/dt1bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.dt-ihracat-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/dt2bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.erp-muhasebe-ico1 .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico1bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.erp-malzeme-yonetimi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico2bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.erp-tedarik-yonetimi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico3bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.erp-satis-yonetimi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico4bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.erp-uretim-yonetimi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico5bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.erp-musteri-iliskileri-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico6bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.erp-insan-kaynaklari-yonetimi .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico7bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.erp-butce-yonetimi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico8bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.erp-dis-ticaret-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico9bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.erp-bakim-yonetimi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico10bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.erp-satis-sonrasi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico11bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.erp-is-zekasi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico12bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.mi-kampanya-yonetimi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico2-bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.mi-satissurec-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico3-bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.mi-iletisim-yonetimi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico4-bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.mi-risk-yonetimi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico5-bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.mi-is-akis-yonetimi .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico6-bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.mi-yardim-masasi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico7-bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.mi-rakip-analizi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico8-bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.mi-sla-yonetimi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico9-bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.mi-aktivite-yonetimi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico10-bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.mi-satis-sonrasi-hizmetler-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico11-bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.mi-mobil-uygulamalar-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico12-bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.malzeme-ihtiyac-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/Malzeme-Yönetimi1-thumb.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.stok-yonetim-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/Malzeme-Yönetimi2-thumb.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.depo-yonetimi-warehouse-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/Malzeme-Yönetimi3-thumb.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.lojistik-yonetim-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/Malzeme-Yönetimi4-thumb.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.kantar-islemleri-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/Malzeme-Yönetimi5-thumb.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.by-talep-yonetimi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/talepyonetimibg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.by-satin-alma-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/satinalmayonetimibg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.by-tedarikci-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/tedarikciilsiikleribg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.sy-firsat-yonetimi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/sy-firsat-bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.sy-teklif-yonetimi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/sy-teklif-bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.sy-siparis-yonetimi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/sy-siparis-bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.sy-irsaliye-fatura-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/sy-irsaliye-bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.sy-onay-mekanizmaları-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/sy-onay-bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.sy-b2b-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/sy-b2b-bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.sy-mobil-satis-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/sy-mobil-bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.ik-organizasyon-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-ico1bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.ik-ozlukislemleri-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-ico2bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.ik-bordro-uygulamalari-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-ico3bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.ik-isdegerleme-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-ico4bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.ik-secmeyerlestirme-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/secmeyerlestirmebg.jpg) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.ik-performans-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-ico5bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.ik-egitim-yonetimi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-ico6bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.ik-kariyerico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-ico7bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.ik-idari-isler-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-ico8bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.ik-izin-uygulamalari-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-ico9bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.ik-is-sagligi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-ico10bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.ik-ucretyonetimi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/k-ucret.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.ik-taseron-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/k-taseron.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.genel-butce-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/butce1icobg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.ekbutce-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/butce2icobg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.kasabanka-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/bg.jpg) no-repeat center center;height:0;background-size:cover;}
+.c-icon-link.tehlike-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/bakimkucuk2.jpg) no-repeat center center;height:0;background-size:cover;}
+.c-icon-link.risk-yonetimi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/3n.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.ariza-yonetimi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/bakimkucuk3.jpg) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.cekvesenetico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/4n.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.stok-yonetimi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/bakimkucuk4.jpg) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.nakit-akis-yonetimi .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/5n.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.bilgi-yonetimi-icons .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/bakimkucuk5.jpg) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.duranvarliklarico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/6n.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.analitikbutceico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/7n.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.grup-muhasebesiico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/8n.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.kredi-leasingico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/9n.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.mali-tablolarico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/10n.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.e-beyannameico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/11n.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.tfrs-ufrs-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/12n.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.resmi-defterlerico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/13n.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.e-defterico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/14n.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.kalitekontrol-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/Kalite-Yönetimi1.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.dokumanyonetimi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/Kalite-Yönetimi2.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.istatiksel-proses-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/Kalite-Yönetimi3.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.istatiksel-grafik-analiz-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/Kalite-Yönetimi4.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.tedarikci-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/Kalite-Yönetimi5.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.doftakibi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/Kalite-Yönetimi6.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.kalibrasyonico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/Kalite-Yönetimi7.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.uyari-onay-yonetimi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/Kalite-Yönetimi8.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.finans-sayfa-ico .iconbox_content_title{color:#676767!important;}
+.c-icon-link.servis-yonetimi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/satissonrasi1-1.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.sevkkabulico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/satissonrasi2-1.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.urunmalzemeico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/satissonrasi3-1.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.bakimvegarantiico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/satissonrasi4-1.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.gecicitakipico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/satissonrasi5-1.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.uy-urunagaci-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uy-urun-bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.uy-uretim-planlama-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uy-uretim-bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.uy-rotayonetimi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uy-rota-bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.uy-is-istasyonu-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uy-is-bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.uy-maliyet-muhasebesi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uy-maliyet-bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.uy-fason-takibi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uy-fason-bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.uy-mobil-uretim-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uy-mobil-bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.uy-kalite-kontrol-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uy-kalite-bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.kp-mersis-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/mersis-sicil-ico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.kp-mersis-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/mersis-hover.png) no-repeat 50% 10%;}
+.c-icon-link.kp-mersis-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/Mersis.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.kp-esnat-sanatkar-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/esbis-ico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.kp-esnat-sanatkar-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/esbis-hover.png) no-repeat 50% 10%;}
+.c-icon-link.kp-esnat-sanatkar-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/esnaff.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.kp-hks-hal-kayit a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/hks-ico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.kp-hks-hal-kayit a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/hks-hover.png) no-repeat 50% 10%;}
+.c-icon-link.kp-hks-hal-kayit .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/Hal.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.kp-arge-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/arge-ico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.kp-arge-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/ar-ge-hover.png) no-repeat 50% 10%;}
+.c-icon-link.kp-arge-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/ar-ge.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.kp-tbmm-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/tbmm-ico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.kp-tbmm-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/tbmm-hover.png) no-repeat 50% 10%;}
+.c-icon-link.kp-tbmm-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/TBMM.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.kp-kegm-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/kegm-ico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.kp-kegm-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/kegm-hover.png) no-repeat 50% 10%;}
+.c-icon-link.kp-kegm-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/KEGM.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.kp-tcdd-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/tcdd-ico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.kp-tcdd-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/tcdd-hover.png) no-repeat 50% 10%;}
+.kp-tetas-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/tetas-ico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.kp-tetas-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/tetas-hover.png) no-repeat 50% 10%;}
+.c-icon-link.kp-tetas-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/TETAŞ.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.kp-basaksehir-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/basaksehir-ico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.kp-basaksehir-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/basaksehir-hover.png) no-repeat 50% 10%;}
+.c-icon-link.kp-basaksehir-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/başakşehir.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.kp-kurumsal-checkup-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/checkup-ico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.kp-kurumsal-checkup-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/checkup-hover.png) no-repeat 50% 10%;}
+.c-icon-link.kp-kurumsal-checkup-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/kırmızı.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.erp-cloud-erp a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/04/cloud.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.erp-cloud-erp a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/04/cloud-hover.png) no-repeat 50% 10%;}
+.c-icon-link.erp-cloud-erp .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/04/cloudh3.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.ce-maliyet-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/04/maliyet.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.ce-maliyet-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/04/maliyet-hover.png) no-repeat 50% 10%;}
+.c-icon-link.ce-maliyet-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/04/K-maliyet.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.ce-esneklik-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/04/esneklik.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.ce-esneklik-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/04/esneklikhover.png) no-repeat 50% 10%;}
+.c-icon-link.ce-esneklik-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/04/K-esneklik.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.ce-hizmet-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/04/hizmetkalitesi.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.ce-hizmet-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/04/hizmethover.png) no-repeat 50% 10%;}
+.c-icon-link.ce-hizmet-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/04/K-hizmet-kalitesi.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.issistemleri .togglecontainer section.av_toggle_section:first-child div.single_toggle p.toggler,.w900 > .special-heading-border{display:none;}
+.c-icon-link.bakimtakip-ico .iconbox_content_title:after,.c-icon-link.talep-yonetimi-ico .iconbox_content_title:after,.c-icon-link.satin-alma-yonetim-ico .iconbox_content_title:after,.c-icon-link.tedarikci-iliskileri-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/bakimkucuk1.jpg) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.dt-ithalat-ico .iconbox_content_title:after,.c-icon-link.kp-tcdd-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/dt3bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.erp-kalite-yonetimi-ico .iconbox_content_title:after,.c-icon-link.mi-firsat-yonetimi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico1bg.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.kp-balikesir-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/balikesir-ico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.kp-balikesir-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/balikesir-hover.png) no-repeat 50% 10%;}
+.c-icon-link.kp-balikesir-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/Balıkesir.png) no-repeat center center;background-size:cover;height:0;transition:all .4s;}
+.c-icon-link.eticaret-yonetimi-ico .iconbox_content_title:after{background-color:transparent!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/1.png) no-repeat center center;height:0;background-size:cover;}
+@media only screen and (max-width:768px) {
+.kulakcikfixed{right:-88px;}
+.kulakcikfixed a{padding:8px 50px!important;}
+.text-right > h2{margin-top:20px!important;}
+.c-icon-link-list--8 .icoborder.c-icon-link{width:100% !important;}
+}
+@media only screen and (max-width:1024px) {
+.c-icon-link-list--8 .icoborder.c-icon-link{width:16.5%;}
+}
+.c-icon-link-list--inverse .c-icon-link.kp-mersis-ico .iconbox_content_title,
+.c-icon-link-list--inverse .c-icon-link.kp-esnat-sanatkar-ico .iconbox_content_title,
+.c-icon-link-list--inverse .c-icon-link.kp-hks-hal-kayit .iconbox_content_title,
+.c-icon-link-list--inverse .c-icon-link.kp-arge-ico .iconbox_content_title,
+.c-icon-link-list--inverse .c-icon-link.kp-tbmm-ico .iconbox_content_title,
+.c-icon-link-list--inverse .c-icon-link.kp-kegm-ico .iconbox_content_title,
+.c-icon-link-list--inverse .c-icon-link.kp-tcdd-ico .iconbox_content_title,
+.c-icon-link-list--inverse .c-icon-link.kp-tetas-ico .iconbox_content_title,
+.c-icon-link-list--inverse .c-icon-link.kp-balikesir-ico .iconbox_content_title,
+.c-icon-link-list--inverse .c-icon-link.kp-basaksehir-ico .iconbox_content_title,
+.c-icon-link-list--inverse .c-icon-link.kp-kurumsal-checkup-ico .iconbox_content_title{background-color:#fff !important;color:#e11e25 !important;}
+.c-icon-link-list--inverse .c-icon-link.kp-mersis-ico .iconbox_icon:hover + .iconbox_content_title, .c-icon-link-list--inverse .c-icon-link.iconbox--active .iconbox_icon + .iconbox_content_title,
+.c-icon-link-list--inverse .c-icon-link.kp-esnat-sanatkar-ico .iconbox_icon:hover + .iconbox_content_title, .c-icon-link-list--inverse .c-icon-link.iconbox--active .iconbox_icon + .iconbox_content_title,
+.c-icon-link-list--inverse .c-icon-link.kp-hks-hal-kayit .iconbox_icon:hover + .iconbox_content_title, .c-icon-link-list--inverse .c-icon-link.iconbox--active .iconbox_icon + .iconbox_content_title,
+.c-icon-link-list--inverse .c-icon-link.kp-arge-ico .iconbox_icon:hover + .iconbox_content_title, .c-icon-link-list--inverse .c-icon-link.iconbox--active .iconbox_icon + .iconbox_content_title,
+.c-icon-link-list--inverse .c-icon-link.kp-tbmm-ico .iconbox_icon:hover + .iconbox_content_title, .c-icon-link-list--inverse .c-icon-link.iconbox--active .iconbox_icon + .iconbox_content_title,
+.c-icon-link-list--inverse .c-icon-link.kp-kegm-ico .iconbox_icon:hover + .iconbox_content_title, .c-icon-link-list--inverse .c-icon-link.iconbox--active .iconbox_icon + .iconbox_content_title,
+.c-icon-link-list--inverse .c-icon-link.kp-tcdd-ico .iconbox_icon:hover + .iconbox_content_title, .c-icon-link-list--inverse .c-icon-link.iconbox--active .iconbox_icon + .iconbox_content_title,
+.c-icon-link-list--inverse .c-icon-link.kp-tetas-ico .iconbox_icon:hover + .iconbox_content_title, .c-icon-link-list--inverse .c-icon-link.iconbox--active .iconbox_icon + .iconbox_content_title,
+.c-icon-link-list--inverse .c-icon-link.kp-balikesir-ico .iconbox_icon:hover + .iconbox_content_title, .c-icon-link-list--inverse .c-icon-link.iconbox--active .iconbox_icon + .iconbox_content_title,
+.c-icon-link-list--inverse .c-icon-link.kp-basaksehir-ico .iconbox_icon:hover + .iconbox_content_title, .c-icon-link-list--inverse .c-icon-link.iconbox--active .iconbox_icon + .iconbox_content_title,
+.c-icon-link-list--inverse .c-icon-link.kp-kurumsal-checkup-ico .iconbox_icon:hover + .iconbox_content_title, .c-icon-link-list--inverse .c-icon-link.iconbox--active .iconbox_icon + .iconbox_content_title{color:#fff !important;}
+.eticaret-yonetimi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/e-ticaretred.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.eticaret-yonetimi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/e-ticarethover.png) no-repeat 50% 10%;}
+.muhasebevecariveri-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/01/muhasebecari.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.muhasebevecariveri-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/1b.png) no-repeat 50% 10%;}
+.malzeme-ihtiyac-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/malzemeico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.malzeme-ihtiyac-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/malzemeyonetimihover.png) no-repeat 50% 10%;}
+.stok-yonetim-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/stokyonetimiico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.stok-yonetim-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/stokyonetimihover.png) no-repeat 50% 10%;}
+.depo-yonetimi-warehouse-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/depowarehouseico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.depo-yonetimi-warehouse-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/depowarehover.png) no-repeat 50% 10%;}
+.lojistik-yonetim-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/lojistikyonetimiico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.lojistik-yonetim-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/lojistikhover.png) no-repeat 50% 10%;}
+.kantar-islemleri-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/kantarislemleri.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.kantar-islemleri-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/kantarislemlerihover.png) no-repeat 50% 10%;}
+.kalitekontrol-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/kalitekontrol-ico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.kalitekontrol-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/kalitekontrol-icohover.png) no-repeat 50% 10%;}
+.dokumanyonetimi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/Dokumanyonetimi.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.dokumanyonetimi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/Dokumanyonetimihover.png) no-repeat 50% 10%;}
+.istatiksel-proses-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/istatiksel-proses-kontrol.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.istatiksel-proses-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/istatiksel-proses-kontrolhover.png) no-repeat 50% 10%;}
+.istatiksel-grafik-analiz-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/istatiksel-proses-grafik.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.istatiksel-grafik-analiz-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/istatiksel-proses-grafikhover.png) no-repeat 50% 10%;}
+.tedarikci-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/tedarikci-ico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.tedarikci-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/tedarikci-icohover.png) no-repeat 50% 10%;}
+.doftakibi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/Dof-takibi.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.doftakibi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/Dof-takibihover.png) no-repeat 50% 10%;}
+.kalibrasyonico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/kalibrasyon-ico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.kalibrasyonico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/kalibrasyon-icohover.png) no-repeat 50% 10%;}
+.uyari-onay-yonetimi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uyari-ico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.uyari-onay-yonetimi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uyari-icohover.png) no-repeat 50% 10%;}
+.servis-yonetimi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ServisYonetimi.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.servis-yonetimi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/servisyonetimihover.png) no-repeat 50% 10%;}
+.sevkkabulico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/sevkvekabul.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.sevkkabulico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/sevkvekabulhover.png) no-repeat 50% 10%;}
+.urunmalzemeico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/urunmalzeme.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.urunmalzemeico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/urunmalzemehover.png) no-repeat 50% 10%;}
+.bakimvegarantiico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/bakimgaranti.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.bakimvegarantiico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/bakimgarantihover.png) no-repeat 50% 10%;}
+.gecicitakipico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/geciciurun.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.gecicitakipico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/geciciurunhover.png) no-repeat 50% 10%;}
+.by-tedarikci-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/tedarikciilsikileriicon.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.by-tedarikci-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/tedarikciliskileribeyaz.png) no-repeat 50% 10%;}
+.by-talep-yonetimi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/talepyonetimiicon.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.by-talep-yonetimi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/talepyonetimibeyaz.png) no-repeat 50% 10%;}
+.by-satin-alma-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/satinalmayonetimiicon.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.by-satin-alma-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/satinalmayonetimiicobeyaz.png) no-repeat 50% 10%;}
+.sy-firsat-yonetimi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/sy-firsay-yonetimi-ico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.sy-firsat-yonetimi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/sy-firsathover.png) no-repeat 50% 10%;}
+.sy-teklif-yonetimi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/sy-teklif-yonetimi-ico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.sy-teklif-yonetimi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/sy-teklifyonetimi.png) no-repeat 50% 10%;}
+.sy-siparis-yonetimi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/sy-siparis-yonetimi-ico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.sy-siparis-yonetimi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/sy-siparis-hover.png) no-repeat 50% 10%;}
+.sy-irsaliye-fatura-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/sy-irsaliye-fatura-yonetimi-ico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.sy-irsaliye-fatura-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/sy-irsaliye-fatura-hover.png) no-repeat 50% 10%;}
+.sy-onay-mekanizmaları-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/sy-onay-yonetimi-ico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.sy-onay-mekanizmaları-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/sy-onay-hover.png) no-repeat 50% 10%;}
+.sy-b2b-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/sy-b2b-entegrasyonu-ico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.sy-b2b-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/sy-entegrasyon-hover.png) no-repeat 50% 10%;}
+.sy-mobil-satis-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/sy-mobil-satis-ico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.sy-mobil-satis-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/sy-mobil-hover.png) no-repeat 50% 10%;}
+.uy-urunagaci-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uy-urunagaci.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.uy-urunagaci-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uy-urunagacihover.png) no-repeat 50% 10%;}
+.uy-uretim-planlama-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uy-uretim-planlama.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.uy-uretim-planlama-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uy-uretim-planlama-hover.png) no-repeat 50% 10%;}
+.uy-rotayonetimi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uy-rota-yonetimi-ico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.uy-rotayonetimi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uy-rota-yonetimi-hover.png) no-repeat 50% 10%;}
+.uy-is-istasyonu-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uy-is-operasyon.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.uy-is-istasyonu-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uy-is-operasyon-hover.png) no-repeat 50% 10%;}
+.uy-maliyet-muhasebesi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uy-maliyet-muhasebesi.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.uy-maliyet-muhasebesi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uy-maliyet-hover.png) no-repeat 50% 10%;}
+.uy-fason-takibi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uy-fason.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.uy-fason-takibi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uy-fason-hover.png) no-repeat 50% 10%;}
+.uy-mobil-uretim-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uy-mobil.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.uy-mobil-uretim-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uy-mobil-hover.png) no-repeat 50% 10%;}
+.uy-kalite-kontrol-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uy-kalite-kontrol.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.uy-kalite-kontrol-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uy-kalite-hover.png) no-repeat 50% 10%;}
+.mi-firsat-yonetimi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico1.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.mi-firsat-yonetimi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico1hover.png) no-repeat 50% 10%;}
+.mi-kampanya-yonetimi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico2.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.mi-kampanya-yonetimi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico2hover.png) no-repeat 50% 10%;}
+.mi-satissurec-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico3.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.mi-satissurec-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico3hover.png) no-repeat 50% 10%;}
+.mi-iletisim-yonetimi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico4.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.mi-iletisim-yonetimi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico4hover.png) no-repeat 50% 10%;}
+.mi-risk-yonetimi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico5.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.mi-risk-yonetimi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico5hover.png) no-repeat 50% 10%;}
+.mi-is-akis-yonetimi a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico6.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.mi-is-akis-yonetimi a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico6hover.png) no-repeat 50% 10%;}
+.mi-yardim-masasi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico7.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.mi-yardim-masasi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico7hover.png) no-repeat 50% 10%;}
+.mi-rakip-analizi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico8.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.mi-rakip-analizi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico8hover.png) no-repeat 50% 10%;}
+.mi-sla-yonetimi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico9.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.mi-sla-yonetimi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico9hover.png) no-repeat 50% 10%;}
+.mi-aktivite-yonetimi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico10.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.mi-aktivite-yonetimi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico10hover.png) no-repeat 50% 10%;}
+.mi-satis-sonrasi-hizmetler-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico11.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.mi-satis-sonrasi-hizmetler-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico11hover.png) no-repeat 50% 10%;}
+.mi-mobil-uygulamalar-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico12.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.mi-mobil-uygulamalar-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/mi-ico12hover.png) no-repeat 50% 10%;}
+.dt-gumrukislemleri-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/gumrukico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.dt-gumrukislemleri-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/gumrukislemlerihover.png) no-repeat 50% 10%;}
+.dt-ihracat-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ihracatico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.dt-ihracat-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ihracathover.png) no-repeat 50% 10%;}
+.dt-ithalat-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ithalatico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.dt-ithalat-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ithalathover.png) no-repeat 50% 10%;}
+.bakimtakip-ico a.iconbox_icon::before,.talep-yonetimi-ico a.iconbox_icon::before,.satin-alma-yonetim-ico a.iconbox_icon::before,.tedarikci-iliskileri-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/bakimtakip-ico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.bakimtakip-ico a.iconbox_icon:hover::before,.talep-yonetimi-ico a.iconbox_icon:hover::before,.satin-alma-yonetim-ico a.iconbox_icon:hover::before,.tedarikci-iliskileri-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/bakimtakip-icohover.png) no-repeat 50% 10%;}
+.kasabanka-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/kasabanka-beyaz.png) no-repeat 50% 10%;}
+.tehlike-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/tehlike-yonetimi-icohover.png) no-repeat 50% 10%;}
+.cekvesenetico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/4b.png) no-repeat 50% 10%;}
+.stok-yonetimi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/stok-yonetimi-icohover.png) no-repeat 50% 10%;}
+.nakit-akis-yonetimi a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/5b.png) no-repeat 50% 10%;}
+.bilgi-yonetimi-icons a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/bilgiservisihover.png) no-repeat 50% 10%;}
+.bilgi-yonetimi a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/bakimkucuk5.jpg) no-repeat 50% 10%;}
+.duranvarliklarico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/DuranVarlıklar-Beyaz.png) no-repeat 50% 10%;}
+.analitikbutceico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/7b.png) no-repeat 50% 10%;}
+.grup-muhasebesiico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/8b.png) no-repeat 50% 10%;}
+.kredi-leasingico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/9b.png) no-repeat 50% 10%;}
+.mali-tablolarico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/10b.png) no-repeat 50% 10%;}
+.e-beyannameico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/11b.png) no-repeat 50% 10%;}
+.tfrs-ufrs-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/12b.png) no-repeat 50% 10%;}
+.resmi-defterlerico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/13b.png) no-repeat 50% 10%;}
+.e-defterico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/14b.png) no-repeat 50% 10%;}
+.kasabanka-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/01/kasabanka.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.tehlike-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/tehlike-yonetimi-ico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.risk-yonetimi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/01/riskyonetimi.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.risk-yonetimi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/3b.png) no-repeat 50% 10%;}
+.ariza-yonetimi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/arizayonetimi.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.ariza-yonetimi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/arizayonetimihover.png) no-repeat 50% 10%;}
+.cekvesenetico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/01/ceksenetyonetimi.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.stok-yonetimi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/stok-yonetimi-ico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.nakit-akis-yonetimi a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/01/nakitvarliklaryonetimi.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.bilgi-yonetimi-icons a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/bilgiservisi-1.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.duranvarliklarico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/DuranVarlıklar-1.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.analitikbutceico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/01/analitikbutceyonetimi.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.grup-muhasebesiico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/01/grupmuhasebesi.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.kredi-leasingico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/01/kredileasingislemleri.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.mali-tablolarico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/01/malitablolar.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.e-beyannameico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/01/e-beyanname.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.tfrs-ufrs-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/01/tfrs-ufrs.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.resmi-defterlerico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/01/resmidefterciler.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.e-defterico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/01/e-defteryonetimi.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.ik-organizasyon-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-ico1.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.ik-organizasyon-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-ico1hover.png) no-repeat 50% 10%;}
+.ik-ozlukislemleri-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-ico2.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.ik-ozlukislemleri-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-ico2hover.png) no-repeat 50% 10%;}
+.ik-bordro-uygulamalari-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-ico3.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.ik-bordro-uygulamalari-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-ico3hover.png) no-repeat 50% 10%;}
+.ik-isdegerleme-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-ico4.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.ik-isdegerleme-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-ico4hover.png) no-repeat 50% 10%;}
+.ik-performans-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-ico5.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.ik-performans-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-ico5hover.png) no-repeat 50% 10%;}
+.ik-egitim-yonetimi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-ico6.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.ik-egitim-yonetimi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-ico6hover.png) no-repeat 50% 10%;}
+.ik-kariyerico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-ico7.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.ik-kariyerico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-ico7hover.png) no-repeat 50% 10%;}
+.ik-secmeyerlestirme-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/secmeyerlestirme.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.ik-secmeyerlestirme-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/secmeyerlestirme_hover.png) no-repeat 50% 10%;}
+.ik-ucretyonetimi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/ucretyonetimi.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.ik-ucretyonetimi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/ucretyonetimihover.png) no-repeat 50% 10%;}
+.ik-taseron-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/taseron.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.ik-taseron-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/taseronhover.png) no-repeat 50% 10%;}
+.ik-idari-isler-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-ico8.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.ik-idari-isler-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-ico8hover.png) no-repeat 50% 10%;}
+.ik-izin-uygulamalari-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-ico9.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.ik-izin-uygulamalari-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-ico9hover.png) no-repeat 50% 10%;}
+.ik-is-sagligi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-ico10.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.ik-is-sagligi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-ico10hover.png) no-repeat 50% 10%;}
+.erp-muhasebe-ico1 a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico1.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.erp-muhasebe-ico1 a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico1hover.png) no-repeat 50% 10%;}
+.erp-malzeme-yonetimi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico2.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.erp-malzeme-yonetimi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico2hover.png) no-repeat 50% 10%;}
+.erp-tedarik-yonetimi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico3.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.erp-tedarik-yonetimi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico3hover.png) no-repeat 50% 10%;}
+.erp-satis-yonetimi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico4.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.erp-satis-yonetimi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico4hover.png) no-repeat 50% 10%;}
+.erp-uretim-yonetimi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico5.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.erp-uretim-yonetimi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico5hover.png) no-repeat 50% 10%;}
+.erp-musteri-iliskileri-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico6.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.erp-musteri-iliskileri-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico6hover.png) no-repeat 50% 10%;}
+.erp-insan-kaynaklari-yonetimi a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico7.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.erp-insan-kaynaklari-yonetimi a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico7hover.png) no-repeat 50% 10%;}
+.erp-butce-yonetimi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico8.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.erp-butce-yonetimi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico8hover.png) no-repeat 50% 10%;}
+.erp-dis-ticaret-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico9.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.erp-dis-ticaret-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico9hover.png) no-repeat 50% 10%;}
+.erp-kalite-yonetimi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico10.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.erp-kalite-yonetimi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico10hover.png) no-repeat 50% 10%;}
+.erp-bakim-yonetimi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico11.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.erp-bakim-yonetimi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico11hover.png) no-repeat 50% 10%;}
+.erp-satis-sonrasi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico12.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.erp-satis-sonrasi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico12hover.png) no-repeat 50% 10%;}
+.erp-is-zekasi-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico13.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.erp-is-zekasi-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/erp-ico13hover.png) no-repeat 50% 10%;}
+.genel-butce-blok a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/butceico1.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.genel-butce-blok a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/butceico1hover.png) no-repeat 50% 10%;}
+.ekbutce-ico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/butceico2.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.ekbutce-ico a.iconbox_icon:hover::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/butceico2hover.png) no-repeat 50% 10%;}
+.finans-kapsayici > div > div > div > div > div > div.flex_column.av_one_half.flex_column_table_cell.av-equal-height-column.av-align-middle.av-zero-column-padding.first.avia-builder-el-93.el_before_av_one_half.avia-builder-el-first.c-icon-link-list.c-icon-link-list--8.c-icon-link-list--icon-50px > span > span::before{background-size:contain;}
+.av_font_icon.muhasebe-cari-blok-ico span::before,
+.av_font_icon.bakim-yonetimi-blok-ico span::before,
+.av_font_icon.sy-firsat-yonetimi-blok span::before,
+.av_font_icon.sy-teklif-yonetimi-blok span::before,
+.av_font_icon.sy-siparis-yonetimi-blok span::before,
+.av_font_icon.sy-irsaliye-fatura-blok span::before,
+.av_font_icon.sy-onay-mekanizmalari-blok span::before,
+.av_font_icon.sy-b2b-blok span::before,
+.av_font_icon.sy-mobil-satis-blok span::before,
+.av_font_icon.uy-urunagaci-blok span::before,
+.av_font_icon.uy-uretim-planlama-blok span::before,
+.av_font_icon.uy-rotayonetimi-blok span::before,
+.av_font_icon.uy-is-istasyonu-blok span::before,
+.av_font_icon.uy-maliyet-muhasebesi-blok span::before,
+.av_font_icon.uy-fason-takibi-blok span::before,
+.av_font_icon.uy-mobil-uretim-blok span::before,
+.av_font_icon.uy-kalite-kontrol-blok span::before,
+.av_font_icon.dt-gumruk-blok span::before,
+.av_font_icon.dt-ihracat-blok span::before,
+.av_font_icon.dt-ithalat-blok span::before,
+.av_font_icon.mi-firsat-yonetimi-blok span::before,
+.av_font_icon.mi-kampanya-yonetimi-blok span::before,
+.av_font_icon.mi-satissurec-blok span::before,
+.av_font_icon.mi-iletisim-yonetimi-blok span::before,
+.av_font_icon.mi-risk-yonetimi-blok span::before,
+.av_font_icon.mi-is-akis-yonetimi-blok span::before,
+.av_font_icon.mi-yardim-masasi-blok span::before,
+.av_font_icon.mi-rakip-analizi-blok span::before,
+.av_font_icon.mi-sla-yonetimi-blok span::before,
+.av_font_icon.mi-aktivite-yonetimi-blok span::before,
+.av_font_icon.mi-satis-sonrasi-blok span::before,
+.av_font_icon.mi-mobil-blok span::before,
+.av_font_icon.ik-organizasyon-blok span::before,
+.av_font_icon.ik-secmeyerlestirme-blok span::before,
+.av_font_icon.ik-ozluk-blok span::before,
+.av_font_icon.ik-bordro-blok span::before,
+.av_font_icon.ik-isdegerleme-blok span::before,
+.av_font_icon.ik-performans-yonetimi-blok span::before,
+.av_font_icon.ik-egitim-blok span::before,
+.av_font_icon.ik-kariyer-blok span::before,
+.av_font_icon.ik-idariisler-blok span::before,
+.av_font_icon.ik-izin-blok span::before,
+.av_font_icon.ik-is-sagligi-blok span::before,
+.av_font_icon.ik-ucretyonetimi-blok span::before,
+.av_font_icon.ik-taseron-blok span::before,
+.av_font_icon.proje-yonetimi-blok-ico span::before,
+.av_font_icon.malzeme-ihtiyac-blok-ico span::before,
+.av_font_icon.by-talep-yonetimi-blok span::before,
+.av_font_icon.by-satin-alma-yonetimi-blok span::before,
+.av_font_icon.by-tedarikci-iliskileri-blok span::before,
+.av_font_icon.stok-yonetim-blok-ico span::before,
+.av_font_icon.depo-yonetim-blok-ico span::before,
+.av_font_icon.lojistik-yonetim-blok-ico span::before,
+.av_font_icon.kantar-islemleri-blok-ico span::before,
+.av_font_icon.tehlike-ico span::before,
+.av_font_icon.kasa-banka-blok-ico span::before,
+.av_font_icon.tehlike-yonetimi-blok-ico span::before,
+.av_font_icon.bilgi-yonetimi-blok-ico span::before,
+.av_font_icon.stok-yonetimi-ico span::before,
+.av_font_icon.ariza-yonetimi-ico span::before,
+.av_font_icon.risk-yonetimi-blok-ico span::before,
+.av_font_icon.ariza-yonetimi-blok-ico span::before,
+.av_font_icon.cek-senet-yonetimi-blok-ico span::before,
+.av_font_icon.stok-yonetimi-blok-ico span::before,
+.av_font_icon.nakit-akis-yonetimi-blok-ico span::before,
+.av_font_icon.duran-varlik-blok-ico span::before,
+.av_font_icon.analitik-blok-ico span::before,
+.av_font_icon.grup-muhasebesi-blok-ico span::before,
+.av_font_icon.kredi-leasing-blok-ico span::before,
+.av_font_icon.mali-tablolar-blok-ico span::before,
+.av_font_icon.e-beyanname-blok-ico span::before,
+.av_font_icon.tfrs-blok-ico span::before,
+.av_font_icon.resmi-defterler-blok-ico span::before,
+.av_font_icon.kalite-kontrol-blok-ico span::before,
+.av_font_icon.dokuman-blok-ico span::before,
+.av_font_icon.istatiksel-proses-blok-ico span::before,
+.av_font_icon.istatiksel-grafik-blok-ico span::before,
+.av_font_icon.tedarikci-degerlendirme-blok-ico span::before,
+.av_font_icon.dof-takibi-blok-ico span::before,
+.av_font_icon.kalibrasyon-takibi-blok-ico span::before,
+.av_font_icon.uyari-onay-blok-ico span::before,
+.av_font_icon.servis-blok-ico span::before,
+.av_font_icon.sevk-kabul-blok-ico span::before,
+.av_font_icon.urun-malzeme-blok-ico span::before,
+.av_font_icon.bakim-takip-blok-ico span::before,
+.av_font_icon.gecici-urun-blok-ico span::before,
+.av_font_icon.genel-butce-blok span::before,
+.av_font_icon.ek-butce-blok span::before,
+.av_font_icon.eticaret-yonetimi-blok span::before,
+.av_font_icon.ce-esneklik-blok span::before,
+.av_font_icon.ce-maliyet-blok span::before,
+.av_font_icon.ce-hizmet-blok span::before,
+.av_font_icon.mi-dashboard-rapor-yonetimi-blok span::before,
+.av_font_icon.mi-musteri-aday-yonetimi-blok span::before,
+.av_font_icon.mi-musteri-yonetimi-blok span::before,
+.av_font_icon.mi-siparis-yonetimi-blok span::before,
+.av_font_icon.mi-sosyal-crm-yonetimi-blok span::before,
+.av_font_icon.mi-sozlesme-yonetimi-blok span::before,
+.av_font_icon.e-defterler-blok-ico span::before{content:'';width:100%;height:300px;display:block;}
+.av_font_icon.mi-sozlesme-yonetimi-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2019/08/sozlesme-yonetimi-e1565105250661.jpg) no-repeat center center;}
+.av_font_icon.mi-sosyal-crm-yonetimi-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2019/08/sosyal-crm-yonetimi-e1565105351217.jpg) no-repeat center center;}
+.av_font_icon.mi-siparis-yonetimi-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2019/08/siparis-yonetimi-e1565105371814.jpg) no-repeat center center;}
+.av_font_icon.mi-musteri-yonetimi-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2019/08/musteri-yonetimi-e1565105380648.jpg) no-repeat center center;}
+.av_font_icon.mi-musteri-aday-yonetimi-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2019/08/musteri-aday-yonetimi-e1565105389100.jpg) no-repeat center center;}
+.av_font_icon.mi-dashboard-rapor-yonetimi-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2019/08/dashboard-rapor-yonetimi-e1565105397219.jpg) no-repeat center center;}
+.av_font_icon.ce-maliyet-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/04/B-maliyet.png) no-repeat center center;}
+.av_font_icon.ce-esneklik-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/04/B-esneklik.png) no-repeat center center;}
+.av_font_icon.ce-hizmet-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/04/B-hizmet-kalitesi.png) no-repeat center center;}
+.av_font_icon.eticaret-yonetimi-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/3-1.png) no-repeat center center;}
+.av_font_icon.dt-gumruk-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/dt-gumrukblok1.png) no-repeat center center;}
+.av_font_icon.dt-ihracat-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/dt-gumrukblok2.png) no-repeat center center;}
+.av_font_icon.dt-ithalat-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/dt-gumrukblok3.png) no-repeat center center;}
+.av_font_icon.genel-butce-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/butceblok1.png) no-repeat center center;}
+.av_font_icon.ek-butce-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/butceblok2.png) no-repeat center center;}
+.av_font_icon.mi-firsat-yonetimi-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/miblok1.png) no-repeat center center;}
+.av_font_icon.mi-kampanya-yonetimi-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/miblok2.png) no-repeat center center;}
+.av_font_icon.mi-satissurec-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/miblok3.png) no-repeat center center;}
+.av_font_icon.mi-iletisim-yonetimi-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/miblok4.png) no-repeat center center;}
+.av_font_icon.mi-risk-yonetimi-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/miblok5.png) no-repeat center center;}
+.av_font_icon.mi-is-akis-yonetimi-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/miblok6.png) no-repeat center center;}
+.av_font_icon.mi-yardim-masasi-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/miblok7.png) no-repeat center center;}
+.av_font_icon.mi-rakip-analizi-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/miblok8.png) no-repeat center center;}
+.av_font_icon.mi-sla-yonetimi-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/miblok9.png) no-repeat center center;}
+.av_font_icon.mi-aktivite-yonetimi-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/miblok10.png) no-repeat center center;}
+.av_font_icon.mi-satis-sonrasi-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/miblok11.png) no-repeat center center;}
+.av_font_icon.mi-mobil-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/miblok12.png) no-repeat center center;}
+.av_font_icon.uy-urunagaci-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uy-1.png) no-repeat center center;}
+.av_font_icon.uy-uretim-planlama-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uy-2.png) no-repeat center center;}
+.av_font_icon.uy-rotayonetimi-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uy-3.png) no-repeat center center;}
+.av_font_icon.uy-is-istasyonu-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/4.png) no-repeat center center;}
+.av_font_icon.uy-maliyet-muhasebesi-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uy-5.png) no-repeat center center;}
+.av_font_icon.uy-fason-takibi-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uy-6.png) no-repeat center center;}
+.av_font_icon.uy-mobil-uretim-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uy-7.png) no-repeat center center;}
+.av_font_icon.uy-kalite-kontrol-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/uy-8-1.png) no-repeat center center;}
+.av_font_icon.sy-firsat-yonetimi-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/1-1.png) no-repeat center center;}
+.av_font_icon.sy-teklif-yonetimi-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/2.png) no-repeat center center;}
+.av_font_icon.sy-siparis-yonetimi-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/3.png) no-repeat center center;}
+.av_font_icon.sy-irsaliye-fatura-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/4-1.png) no-repeat center center;}
+.av_font_icon.sy-onay-mekanizmalari-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/5-1.png) no-repeat center center;}
+.av_font_icon.sy-b2b-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/6-1.png) no-repeat center center;}
+.av_font_icon.sy-mobil-satis-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/7-1.png) no-repeat center center;}
+.av_font_icon.ik-organizasyon-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-blok1.png) no-repeat center center;}
+.av_font_icon.ik-secmeyerlestirme-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/secmeyerlestirmeblok.jpg) no-repeat center center;}
+.av_font_icon.ik-ozluk-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-blok2.png) no-repeat center center;}
+.av_font_icon.ik-bordro-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-blok3.png) no-repeat center center;}
+.av_font_icon.ik-isdegerleme-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-blok4.png) no-repeat center center;}
+.av_font_icon.ik-performans-yonetimi-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-blok5.png) no-repeat center center;}
+.av_font_icon.ik-egitim-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/6.png) no-repeat center center;}
+.av_font_icon.ik-kariyer-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-blok7.png) no-repeat center center;}
+.av_font_icon.ik-idariisler-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/8.png) no-repeat center center;}
+.av_font_icon.ik-izin-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-blok9.png) no-repeat center center;}
+.av_font_icon.ik-is-sagligi-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ik-blok10.png) no-repeat center center;}
+.av_font_icon.ik-ucretyonetimi-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/b-ucret.png) no-repeat center center;}
+.av_font_icon.ik-taseron-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/b-taseron.png) no-repeat center center;}
+.av_font_icon.by-talep-yonetimi-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/talepyonetimiblok.png) no-repeat center center;}
+.av_font_icon.by-satin-alma-yonetimi-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/2.png) no-repeat center center;}
+.av_font_icon.by-tedarikci-iliskileri-blok span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/03/3.png) no-repeat center center;}
+.av_font_icon.servis-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/satissonrasi1.png) no-repeat center center;}
+.av_font_icon.sevk-kabul-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/satissonrasi2.png) no-repeat center center;}
+.av_font_icon.urun-malzeme-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/satissonrasi3.png) no-repeat center center;}
+.av_font_icon.bakim-takip-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/satissonrasi4.png) no-repeat center center;}
+.av_font_icon.gecici-urun-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/satissonrasi5.png) no-repeat center center;}
+.av_font_icon.kalite-kontrol-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/Kalite-Yonetimi1.png) no-repeat center center;}
+.av_font_icon.dokuman-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/Kalite-Yonetimi2.png) no-repeat center center;}
+.av_font_icon.istatiksel-proses-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/Kalite-Yonetimi3.png) no-repeat center center;}
+.av_font_icon.istatiksel-grafik-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/Kalite-Yonetimi4.png) no-repeat center center;}
+.av_font_icon.tedarikci-degerlendirme-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/Kalite-Yonetimi5.png) no-repeat center center;}
+.av_font_icon.dof-takibi-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/Kalite-Yonetimi6.png) no-repeat center center;}
+.av_font_icon.kalibrasyon-takibi-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/Kalite-Yonetimi7.png) no-repeat center center;}
+.av_font_icon.uyari-onay-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/Kalite-Yonetimi8.png) no-repeat center center;}
+.av_font_icon.muhasebe-cari-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/1.jpg) no-repeat center center;}
+.av_font_icon.malzeme-ihtiyac-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/malzeme-yönetimi1.png) no-repeat center center;}
+.av_font_icon.stok-yonetim-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/malzeme-yönetimi2.png) no-repeat center center;}
+.av_font_icon.depo-yonetim-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/malzeme-yönetimi3.png) no-repeat center center;}
+.av_font_icon.lojistik-yonetim-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/malzeme-yönetimi4.png) no-repeat center center;}
+.av_font_icon.kantar-islemleri-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/malzeme-yönetimi5.png) no-repeat center center;}
+.av_font_icon.tehlike-yonetimi-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/bakimbuyuk2.jpg) no-repeat center center;}
+.av_font_icon.risk-yonetimi-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/3.jpg) no-repeat center center;}
+.av_font_icon.ariza-yonetimi-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/bakimbuyuk3.jpg) no-repeat center center;}
+.av_font_icon.cek-senet-yonetimi-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/4.jpg) no-repeat center center;}
+.av_font_icon.stok-yonetimi-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/bakimbuyuk4.jpg) no-repeat center center;}
+.av_font_icon.nakit-akis-yonetimi-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/5.jpg) no-repeat center center;}
+.av_font_icon.bilgi-yonetimi-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/bakimbuyuk5.jpg) no-repeat center center;}
+.av_font_icon.duran-varlik-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/6.jpg) no-repeat center center;}
+.av_font_icon.analitik-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/7.jpg) no-repeat center center;}
+.av_font_icon.grup-muhasebesi-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/8.jpg) no-repeat center center;}
+.av_font_icon.kredi-leasing-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/9.jpg) no-repeat center center;}
+.av_font_icon.mali-tablolar-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/10.jpg) no-repeat center center;}
+.av_font_icon.e-beyanname-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/11.jpg) no-repeat center center;}
+.av_font_icon.tfrs-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/12.jpg) no-repeat center center;}
+.av_font_icon.resmi-defterler-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/13.jpg) no-repeat center center;}
+.av_font_icon.e-defterler-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/14.jpg) no-repeat center center;}
+.av_font_icon.bakim-yonetimi-blok-ico span::before,.av_font_icon.proje-yonetimi-blok-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/bakimbuyuk1.jpg) no-repeat center center;}
+.av_font_icon.kasa-banka-blok-ico span::before,.av_font_icon.ariza-yonetimi-ico span::before,.av_font_icon.stok-yonetimi-ico span::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/2.jpg) no-repeat center center;}
+.gumrukislemleriico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/gumrukislemleriico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.ihracatislemleriico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ihracatislemleriico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.ithalatislemleriico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ithalatislemleriico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.genelbutceico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/genelbutceico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.ekbutceico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/ekbutceico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.bakimtakipico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/bakimtakipico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.tehlikeyonetimi a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/tehlikeyonetimiico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.arizaico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/arizaico.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.stokyonetimiico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/stokyonetmi.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.bilgiservisiico a.iconbox_icon::before{content:'';background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/bilgiservisi.png) no-repeat 50% 10%;width:100%;display:block;height:100%;}
+.akordiyon-finans .single_toggle .toggler .vert_ico,.akordiyon-finans .single_toggle .toggler .horz_ico{position:absolute;right:24px;top:46px;width:19px;height:4px;background:#f01716;display:block;margin:0 auto;}
+.akordiyon-finans .single_toggle .toggler .horz_ico{-moz-transform:rotate(90deg);-ms-transform:rotate(90deg);-o-transform:rotate(90deg);-webkit-transform:rotate(90deg);transform:rotate(90deg);}
+.akordiyon-finans .toggle_wrap.active_tc,.akordiyon-finans .toggle_wrap.active_tc .toggle_content{border:none;background:transparent;}
+.js_active p[data-fake-id='#muhasebe-cari-blok'] .toggle_icon{width:35px;height:34px;position:absolute;left:20px;display:block;border:none;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/01/muhasebecari.png) no-repeat center center;background-size:contain;top:31px;}
+.js_active p[data-fake-id='#kasa-banka-akordiyon'] .toggle_icon{width:35px;height:34px;position:absolute;left:19px;display:block;border:none;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/01/kasabanka.png) no-repeat center center;background-size:contain;top:31px;}
+.js_active p[data-fake-id='#risk-yonetimi-akordiyon'] .toggle_icon{width:35px;height:34px;position:absolute;left:22px;display:block;border:none;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/01/riskyonetimi.png) no-repeat center center;background-size:contain;top:31px;}
+.js_active p[data-fake-id='#nakit-akis-akordiyon'] .toggle_icon{width:35px;height:34px;position:absolute;left:22px;display:block;border:none;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/01/nakitvarliklaryonetimi.png) no-repeat center center;background-size:contain;top:31px;}
+.js_active p[data-fake-id='#duran-varlik-akordiyon'] .toggle_icon{width:35px;height:34px;position:absolute;left:22px;display:block;border:none;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/01/analitikbutceyonetimi.png) no-repeat center center;background-size:contain;top:31px;}
+.js_active p[data-fake-id='#grup-muhasebesi-akordiyon'] .toggle_icon{width:35px;height:34px;position:absolute;left:22px;display:block;border:none;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/01/grupmuhasebesi.png) no-repeat center center;background-size:contain;top:31px;}
+.js_active p[data-fake-id='#kredi-leasing-akordiyon'] .toggle_icon{width:35px;height:34px;position:absolute;left:22px;display:block;border:none;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/01/kredileasingislemleri.png) no-repeat center center;background-size:contain;top:31px;}
+.js_active p[data-fake-id='#mali-tablolar-akordiyon'] .toggle_icon{width:35px;height:34px;position:absolute;left:22px;display:block;border:none;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/01/malitablolar.png) no-repeat center center;background-size:contain;top:31px;}
+.js_active p[data-fake-id='#e-beyanname-akordiyon'] .toggle_icon{width:35px;height:34px;position:absolute;left:22px;display:block;border:none;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/01/e-beyanname.png) no-repeat center center;background-size:contain;top:31px;}
+.js_active p[data-fake-id='#tfrs-ufrs-akordiyon'] .toggle_icon{width:35px;height:34px;position:absolute;left:22px;display:block;border:none;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/01/tfrs-ufrs.png) no-repeat center center;background-size:contain;top:31px;}
+.js_active p[data-fake-id='#resmi-defterler-akordiyon'] .toggle_icon{width:35px;height:34px;position:absolute;left:22px;display:block;border:none;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/01/resmidefterciler.png) no-repeat center center;background-size:contain;top:31px;}
+.js_active p[data-fake-id='#e-defter-yonetimi'] .toggle_icon{width:35px;height:34px;position:absolute;left:22px;display:block;border:none;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/01/e-defteryonetimi.png) no-repeat center center;background-size:contain;top:31px;}
+#fullscreen_slider_0.main_slider .slideshow_caption .avia-caption-content{width:100%;display:block;}
+#fullscreen_slider_0.main_slider .slideshow_caption h2{width:100%;display:block;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/BGG.png) center center;text-align:center;margin:0 auto;}
+#fullscreen_slider_0.main_slider .slideshow_caption .avia-caption-content p{display:block;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/BGG.png) top center;background-size:contain;width:100%;margin:0 auto;}
+#fullscreen_slider_0.main_slider .avia-slideshow-button{width:100%;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/BGG.png) bottom left;display:block;text-decoration:none;margin:0 auto;}
+#fullscreen_slider_0.main_slider .avia-slideshow-button:hover{text-decoration:underline;}
+#fullscreen_slider_0.mobil_slider.c-slider .avia-slideshow{height:calc(100vh - 418px)!important;}
+#one-row{margin-top:40px;}
+#one-row a{font-weight:700;margin-bottom:20px;padding:19px 81px;}
+#one-row.satirs{max-width:1310px;width:100%;display:block;margin:auto;padding:0 50px;}
+.a-bloklar .flex_cell_inner{border:1px solid #ddd;}
+.avia-builder-el-last.a-bloklar > div > section > div > p{margin-bottom:65px;}
+.a-bloklar .flex_cell_inner p{padding:0 15px;}
+article.iconbox.iconbox_left.first-rows{width:14%;display:inline-block;text-align:center;box-shadow:0 2px 16px rgba(0,0,0,0.08);margin:0 0 0 34px;}
+article.iconbox.iconbox_left.first-rows:nth-child(1){margin-left:10%;}
+#a-sayfa-teksatir > div > div > div > div > div.flex_column.av_four_fifth.flex_column_div.av-zero-column-padding.avia-builder-el-21.el_after_av_one_fifth.avia-builder-el-last > article.iconbox.iconbox_left.avia-builder-el-25.el_after_av_icon_box.el_before_av_icon_box.first-rows.is-ortagi-ico{margin-right:36px;}
+article.iconbox.iconbox_left.second-rows{width:14.9%;display:inline-block;text-align:center;box-shadow:0 2px 16px rgba(0,0,0,0.08);margin:40px 34px 0 0;}
+article.iconbox.iconbox_left.first-rows .iconbox_content,article.iconbox.iconbox_left.second-rows .iconbox_content{padding:8px;}
+article.iconbox.iconbox_left.first-rows .entry-content-header .iconbox_icon{width:100%;display:block;height:45px;top:0;margin:auto;}
+article.iconbox.iconbox_left.second-rows .entry-content-header .iconbox_icon{width:100%;display:block;text-align:center;height:42px;}
+article.iconbox.iconbox_left.first-rows .entry-content-header h3,article.iconbox.iconbox_left.second-rows .entry-content-header h3{height:45px;display:block;color:#000;}
+article.iconbox.iconbox_left.first-rows .iconbox_content_container p,article.iconbox.iconbox_left.second-rows .iconbox_content_container p{margin:0 auto;}
+article.iconbox.iconbox_left.first-rows.sektor-ico .iconbox_icon::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/aSektor.png) no-repeat center center;background-size:contain;}
+article.iconbox.iconbox_left.first-rows.erp-projesiico .iconbox_icon::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/aErp.png) no-repeat center center;background-size:contain;}
+article.iconbox.iconbox_left.first-rows.calisan-ico .iconbox_icon::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/aCalisanlar.png) no-repeat center center;background-size:contain;}
+article.iconbox.iconbox_left.first-rows.is-ortagi-ico .iconbox_icon::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/aIsortaklari.png) no-repeat center center;background-size:contain;}
+article.iconbox.iconbox_left.second-rows.kamu-projesi-ico .iconbox_icon::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/aTr.png) no-repeat center center;background-size:contain;}
+article.iconbox.iconbox_left.second-rows.kullanıcı-ico .iconbox_icon::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/aE-beyanname.png) no-repeat center center;background-size:contain;}
+article.iconbox.iconbox_left.second-rows.musteri-ico .iconbox_icon::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/aMusteri.png) no-repeat center center;background-size:contain;}
+article.iconbox.iconbox_left.second-rows.ulke-ico .iconbox_icon::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/aUlke.png) no-repeat center center;background-size:contain;}
+article.iconbox.iconbox_left.second-rows.ofis-ico .iconbox_icon::before{background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/aOfis.png) no-repeat center center;background-size:contain;}
+#a-sayfa-teksatir div .av_four_fifth{margin-left:19%;width:65.8%;}
+.a-sayfa-blok{border-right:1px solid #aeaeae;}
+.a-sayfa-blok:last-child{border:none;}
+.a-sayfa-blok a{width:232px;display:block;font-weight:700!important;border:none;-moz-transition:all .4s;-o-transition:all .4s;-webkit-transition:all .4s;transition:all .4s;padding:19px 0!important;}
+.a-sayfa-blok a:hover{background:#f01716!important;color:#fff!important;border:none;}
+#custom-footer-middle .flex_column.av_one_fourth.flex_column_div.av-zero-column-padding{border-right:1px solid #f01716;}
+.avia-slideshow-dots a{background:#fff;border:1px solid #ccc;}
+.c-slider .avia-slideshow-dots a.active{border:1px solid #e11e25;background:transparent!important;}
+.mobil_slider .slideshow_caption h2,.mobil_slider .slideshow_caption p,.mobil_slider .slideshow_caption a{font-size:9px!important;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/02/BGG.png) center center;margin:0!important;}
+.akordiyon-finans .single_toggle .toggler.activeTitle .horz_ico,.js_active p[data-fake-id='#muhasebe-cari-blok'] .toggle_icon .vert_icon,.js_active p[data-fake-id='#muhasebe-cari-blok'] .toggle_icon .hor_icon,.js_active p[data-fake-id='#kasa-banka-akordiyon'] .toggle_icon .vert_icon,.js_active p[data-fake-id='#kasa-banka-akordiyon'] .toggle_icon .hor_icon,.js_active p[data-fake-id='#risk-yonetimi-akordiyon'] .toggle_icon .vert_icon,.js_active p[data-fake-id='#risk-yonetimi-akordiyon'] .toggle_icon .hor_icon,.js_active p[data-fake-id='#cek-ve-senet-akordiyon'] .toggle_icon .vert_icon,.js_active p[data-fake-id='#cek-ve-senet-akordiyon'] .toggle_icon .hor_icon,.js_active p[data-fake-id='#nakit-akis-akordiyon'] .toggle_icon .vert_icon,.js_active p[data-fake-id='#nakit-akis-akordiyon'] .toggle_icon .hor_icon,.js_active p[data-fake-id='#duran-varlik-akordiyon'] .toggle_icon .vert_icon,.js_active p[data-fake-id='#duran-varlik-akordiyon'] .toggle_icon .hor_icon,.js_active p[data-fake-id='#analitik-butce-akordiyon'] .toggle_icon .vert_icon,.js_active p[data-fake-id='#analitik-butce-akordiyon'] .toggle_icon .hor_icon,.js_active p[data-fake-id='#grup-muhasebesi-akordiyon'] .toggle_icon .vert_icon,.js_active p[data-fake-id='#grup-muhasebesi-akordiyon'] .toggle_icon .hor_icon,.js_active p[data-fake-id='#kredi-leasing-akordiyon'] .toggle_icon .vert_icon,.js_active p[data-fake-id='#kredi-leasing-akordiyon'] .toggle_icon .hor_icon,.js_active p[data-fake-id='#mali-tablolar-akordiyon'] .toggle_icon .vert_icon,.js_active p[data-fake-id='#mali-tablolar-akordiyon'] .toggle_icon .hor_icon,.js_active p[data-fake-id='#e-beyanname-akordiyon'] .toggle_icon .vert_icon,.js_active p[data-fake-id='#e-beyanname-akordiyon'] .toggle_icon .hor_icon,.js_active p[data-fake-id='#tfrs-ufrs-akordiyon'] .toggle_icon .vert_icon,.js_active p[data-fake-id='#tfrs-ufrs-akordiyon'] .toggle_icon .hor_icon,.js_active p[data-fake-id='#resmi-defterler-akordiyon'] .toggle_icon .vert_icon,.js_active p[data-fake-id='#resmi-defterler-akordiyon'] .toggle_icon .hor_icon,.js_active p[data-fake-id='#e-defter-yonetimi'] .toggle_icon .vert_icon,.js_active p[data-fake-id='#e-defter-yonetimi'] .toggle_icon .hor_icon{display:none;}
+.js_active p[data-fake-id='#muhasebe-cari-blok'],.js_active p[data-fake-id='#kasa-banka-akordiyon'],.js_active p[data-fake-id='#risk-yonetimi-akordiyon'],.js_active p[data-fake-id='#cek-ve-senet-akordiyon'],.js_active p[data-fake-id='#nakit-akis-akordiyon'],.js_active p[data-fake-id='#duran-varlik-akordiyon'],.js_active p[data-fake-id='#analitik-butce-akordiyon'],.js_active p[data-fake-id='#grup-muhasebesi-akordiyon'],.js_active p[data-fake-id='#kredi-leasing-akordiyon'],.js_active p[data-fake-id='#mali-tablolar-akordiyon'],.js_active p[data-fake-id='#e-beyanname-akordiyon'],.js_active p[data-fake-id='#tfrs-ufrs-akordiyon'],.js_active p[data-fake-id='#resmi-defterler-akordiyon'],.js_active p[data-fake-id='#e-defter-yonetimi']{border:1px solid #ededed;padding:35px 0 35px 80px;}
+.js_active p[data-fake-id='#cek-ve-senet-akordiyon'] .toggle_icon,.js_active p[data-fake-id='#analitik-butce-akordiyon'] .toggle_icon{width:35px;height:34px;position:absolute;left:22px;display:block;border:none;background:url(https://www.uyumsoft.com/wp/wp-content/uploads/2018/01/ceksenetyonetimi.png) no-repeat center center;background-size:contain;top:31px;}
+#one-row h3,.av-special-heading.a-sayfa.baslik h3{font-weight:700;}
+article.iconbox.iconbox_left.first-rows .iconbox_icon::before,article.iconbox.iconbox_left.second-rows .iconbox_icon::before{content:'';width:42px;height:42px;display:block;margin:auto;}
+@media only screen and (max-width: 1024px) {
+#one-row.satirs{max-width:992px;}
+#one-row.satirs .flex_cell{width:100%;display:block;}
+#a-sayfa-teksatir div .av_four_fifth{margin-left:auto!important;width:78.8%!important;}
+article.iconbox.iconbox_left.second-rows{margin:40px 32px 0 0 !important;}
+}
+@media only screen and (max-width: 768px) {
+#one-row.satirs{max-width:100%;padding:0;}
+#one-row.satirs .flex_cell{width:100%;display:block;}
+#a-sayfa-teksatir div .av_four_fifth{width:100%!important;}
+#a-sayfa-teksatir .anasayfa-yazi{width:100%;}
+article.iconbox.iconbox_left.first-rows,article.iconbox.iconbox_left.second-rows{width:49%;text-align:center;margin:10px auto!important;}
+article.iconbox.iconbox_left.second-rows .iconbox_icon::before{margin:auto;}
+article.iconbox.iconbox_left.first-rows:nth-child(1){margin-left:0;}
+#a-sayfa-teksatir{text-align:center;}
+.a-sayfa-blok{border:none;margin-bottom:90px!important;}
+#custom-footer-middle .flex_column.av_one_fourth.flex_column_div.av-zero-column-padding{border:none;}
+}
+@media only screen and (max-width :1024px) {
+.a-bloklar .flex_cell_inner{border:none;margin:0 auto;}
+}
+@media only screen and (max-width:1366px) {
+.a-bloklar .flex_cell_inner{margin:0 auto;}
+}
+@media (min-width:6125em) {
+.html_has-special-menu .c-slider.anasayfa-slider .avia-slideshow{height:calc(100vh - 355px)!important;}
+}
+@media only screen and (min-width:1330px) and (max-width:1440px) {
+.html_has-special-menu .c-slider.anasayfa-slider .avia-slideshow{height:calc(100vh - 225px)!important;}
+} img.avia_image{margin-left:auto;margin-right:auto;}
+.flex_column.av_one_half.flex_column_div.av-zero-column-padding.el_after_av_one_half.el_before_av_hr{padding-top:10px;}
+div#wpcf7-f12363-o1,div#wpcf7-f12151-o1{margin-top:0px;}
+#iletisimformu .av_two_fifth{width:47%;margin:0px;}
+#iletisimformu .av_one_half{width:36.4%;}
+#top .main_color input, #top .main_color textarea{border-color:#E8E8E8;}
+#top label{font-weight:700;color:#777777;font-size:16px;}
+@media only screen and (max-width: 768px){
+.kulakcikfixed{width:262.63px !important;right:-119px !important;}
+}
+.sag-tarafa-yasla .avia-image-container-inner img{float:right;}
+img.avia_image{width:80% !important;}
+.img-anasayfas img{width:100% !important;}
+textarea.wpcf7-form-control.wpcf7-textarea{width:100% !important;padding-left:15px !important;line-height:1.4em !important;border-width:2px !important;border-style:solid! important;background-color:transparent !important;border-radius:0 !important;}
+input.wpcf7-form-control.wpcf7-text{width:100% !important;padding-left:15px !important;line-height:1.4em !important;border-width:2px !important;border-style:solid !important;background-color:transparent !important;border-radius:0;}
+input.wpcf7-form-control.wpcf7-submit{border-width:0 !important;border-style:solid !important;text-decoration:none !important;position:relative !important;display:inline-block !important;overflow:hidden !important;z-index:1 !important;padding:.6em 20px !important;border-radius:0 !important;line-height:1.6em !important;font-weight:700 !important;}
+textarea.wpcf7-form-control.wpcf7-textarea:active,textarea.wpcf7-form-control.wpcf7-textarea:focus{border-color:#ed1c24 !important;}
+input.wpcf7-form-control.wpcf7-text:active,input.wpcf7-form-control.wpcf7-text:focus{border-color:#ed1c24 !important;}
+.unit, .units{float:none !important;display:block;position:initial;}
+.kulakcikfixed{z-index:100;}
+@media screen and (max-width:768px){.flex_column{width:100% !important;margin:0px !important;}
+.flex_column.av_one_third.flex_column_div.av-zero-column-padding{width:100%;margin:0}
+.flex_column.av_one_half.flex_column_div.av-zero-column-padding.first.avia-builder-el-37.el_after_av_one_half.el_before_av_two_fifth.column-top-margin{width:100%;margin:0}
+.flex_column.av_two_fifth.flex_column_div.av-zero-column-padding.avia-builder-el-40.el_after_av_one_half.avia-builder-el-last.column-top-margin{width:100%;margin:0}
+.flex_column.av_one_half.flex_column_table_cell{width:100%;}
+a.chats_whatsapp.mobile{top:80%;}
+.av_font_icon.muhasebe-cari-blok-ico span::before, .av_font_icon.bakim-yonetimi-blok-ico span::before, .av_font_icon.sy-firsat-yonetimi-blok span::before, .av_font_icon.sy-teklif-yonetimi-blok span::before, .av_font_icon.sy-siparis-yonetimi-blok span::before, .av_font_icon.sy-irsaliye-fatura-blok span::before, .av_font_icon.sy-onay-mekanizmalari-blok span::before, .av_font_icon.sy-b2b-blok span::before, .av_font_icon.sy-mobil-satis-blok span::before, .av_font_icon.uy-urunagaci-blok span::before, .av_font_icon.uy-uretim-planlama-blok span::before, .av_font_icon.uy-rotayonetimi-blok span::before, .av_font_icon.uy-is-istasyonu-blok span::before, .av_font_icon.uy-maliyet-muhasebesi-blok span::before, .av_font_icon.uy-fason-takibi-blok span::before, .av_font_icon.uy-mobil-uretim-blok span::before, .av_font_icon.uy-kalite-kontrol-blok span::before, .av_font_icon.dt-gumruk-blok span::before, .av_font_icon.dt-ihracat-blok span::before, .av_font_icon.dt-ithalat-blok span::before, .av_font_icon.mi-firsat-yonetimi-blok span::before, .av_font_icon.mi-kampanya-yonetimi-blok span::before, .av_font_icon.mi-satissurec-blok span::before, .av_font_icon.mi-iletisim-yonetimi-blok span::before, .av_font_icon.mi-risk-yonetimi-blok span::before, .av_font_icon.mi-is-akis-yonetimi-blok span::before, .av_font_icon.mi-yardim-masasi-blok span::before, .av_font_icon.mi-rakip-analizi-blok span::before, .av_font_icon.mi-sla-yonetimi-blok span::before, .av_font_icon.mi-aktivite-yonetimi-blok span::before, .av_font_icon.mi-satis-sonrasi-blok span::before, .av_font_icon.mi-dashboard-rapor-yonetimi-blok span::before, .av_font_icon.mi-musteri-aday-yonetimi-blok span::before, .av_font_icon.mi-musteri-yonetimi-blok span::before, .av_font_icon.mi-siparis-yonetimi-blok span::before, .av_font_icon.mi-sosyal-crm-yonetimi-blok span::before, .av_font_icon.mi-sozlesme-yonetimi-blok span::before, .av_font_icon.mi-mobil-blok span::before, .av_font_icon.ik-organizasyon-blok span::before, .av_font_icon.ik-secmeyerlestirme-blok span::before, .av_font_icon.ik-ozluk-blok span::before, .av_font_icon.ik-bordro-blok span::before, .av_font_icon.ik-isdegerleme-blok span::before, .av_font_icon.ik-performans-yonetimi-blok span::before, .av_font_icon.ik-egitim-blok span::before, .av_font_icon.ik-kariyer-blok span::before, .av_font_icon.ik-idariisler-blok span::before, .av_font_icon.ik-izin-blok span::before, .av_font_icon.ik-is-sagligi-blok span::before, .av_font_icon.ik-ucretyonetimi-blok span::before, .av_font_icon.ik-taseron-blok span::before, .av_font_icon.proje-yonetimi-blok-ico span::before, .av_font_icon.malzeme-ihtiyac-blok-ico span::before, .av_font_icon.by-talep-yonetimi-blok span::before, .av_font_icon.by-satin-alma-yonetimi-blok span::before, .av_font_icon.by-tedarikci-iliskileri-blok span::before, .av_font_icon.stok-yonetim-blok-ico span::before, .av_font_icon.depo-yonetim-blok-ico span::before, .av_font_icon.lojistik-yonetim-blok-ico span::before, .av_font_icon.kantar-islemleri-blok-ico span::before, .av_font_icon.tehlike-ico span::before, .av_font_icon.kasa-banka-blok-ico span::before, .av_font_icon.tehlike-yonetimi-blok-ico span::before, .av_font_icon.bilgi-yonetimi-blok-ico span::before, .av_font_icon.stok-yonetimi-ico span::before, .av_font_icon.ariza-yonetimi-ico span::before, .av_font_icon.risk-yonetimi-blok-ico span::before, .av_font_icon.ariza-yonetimi-blok-ico span::before, .av_font_icon.cek-senet-yonetimi-blok-ico span::before, .av_font_icon.stok-yonetimi-blok-ico span::before, .av_font_icon.nakit-akis-yonetimi-blok-ico span::before, .av_font_icon.duran-varlik-blok-ico span::before, .av_font_icon.analitik-blok-ico span::before, .av_font_icon.grup-muhasebesi-blok-ico span::before, .av_font_icon.kredi-leasing-blok-ico span::before, .av_font_icon.mali-tablolar-blok-ico span::before, .av_font_icon.e-beyanname-blok-ico span::before, .av_font_icon.tfrs-blok-ico span::before, .av_font_icon.resmi-defterler-blok-ico span::before, .av_font_icon.kalite-kontrol-blok-ico span::before, .av_font_icon.dokuman-blok-ico span::before, .av_font_icon.istatiksel-proses-blok-ico span::before, .av_font_icon.istatiksel-grafik-blok-ico span::before, .av_font_icon.tedarikci-degerlendirme-blok-ico span::before, .av_font_icon.dof-takibi-blok-ico span::before, .av_font_icon.kalibrasyon-takibi-blok-ico span::before, .av_font_icon.uyari-onay-blok-ico span::before, .av_font_icon.servis-blok-ico span::before, .av_font_icon.sevk-kabul-blok-ico span::before, .av_font_icon.urun-malzeme-blok-ico span::before, .av_font_icon.bakim-takip-blok-ico span::before, .av_font_icon.gecici-urun-blok-ico span::before, .av_font_icon.genel-butce-blok span::before, .av_font_icon.ek-butce-blok span::before, .av_font_icon.eticaret-yonetimi-blok span::before, .av_font_icon.ce-esneklik-blok span::before, .av_font_icon.ce-maliyet-blok span::before, .av_font_icon.ce-hizmet-blok span::before, .av_font_icon.e-defterler-blok-ico span::before {margin-left: 0px !important;width: 40vh !important;height: 30vh !important;padding: 0px;margin: 0px;}}.av_font_icon.muhasebe-cari-blok-ico span::before,.av_font_icon.bakim-yonetimi-blok-ico span::before,
+.av_font_icon.sy-firsat-yonetimi-blok span::before,
+.av_font_icon.sy-teklif-yonetimi-blok span::before,
+.av_font_icon.sy-siparis-yonetimi-blok span::before,
+.av_font_icon.sy-irsaliye-fatura-blok span::before,
+.av_font_icon.sy-onay-mekanizmalari-blok span::before,
+.av_font_icon.sy-b2b-blok span::before,
+.av_font_icon.sy-mobil-satis-blok span::before,
+.av_font_icon.uy-urunagaci-blok span::before,
+.av_font_icon.uy-uretim-planlama-blok span::before,
+.av_font_icon.uy-rotayonetimi-blok span::before,
+.av_font_icon.uy-is-istasyonu-blok span::before,
+.av_font_icon.uy-maliyet-muhasebesi-blok span::before,
+.av_font_icon.uy-fason-takibi-blok span::before,
+.av_font_icon.uy-mobil-uretim-blok span::before,
+.av_font_icon.uy-kalite-kontrol-blok span::before,
+.av_font_icon.dt-gumruk-blok span::before,
+.av_font_icon.dt-ihracat-blok span::before,
+.av_font_icon.dt-ithalat-blok span::before,
+.av_font_icon.mi-firsat-yonetimi-blok span::before,
+.av_font_icon.mi-kampanya-yonetimi-blok span::before,
+.av_font_icon.mi-satissurec-blok span::before,
+.av_font_icon.mi-iletisim-yonetimi-blok span::before,
+.av_font_icon.mi-risk-yonetimi-blok span::before,
+.av_font_icon.mi-is-akis-yonetimi-blok span::before,
+.av_font_icon.mi-yardim-masasi-blok span::before,
+.av_font_icon.mi-rakip-analizi-blok span::before,
+.av_font_icon.mi-sla-yonetimi-blok span::before,
+.av_font_icon.mi-aktivite-yonetimi-blok span::before,
+.av_font_icon.mi-satis-sonrasi-blok span::before,
+.av_font_icon.mi-mobil-blok span::before,
+.av_font_icon.mi-dashboard-rapor-yonetimi-blok span::before,
+.av_font_icon.mi-musteri-aday-yonetimi-blok span::before,
+.av_font_icon.mi-musteri-yonetimi-blok span::before,
+.av_font_icon.mi-siparis-yonetimi-blok span::before,
+.av_font_icon.mi-sosyal-crm-yonetimi-blok span::before,
+.av_font_icon.mi-sozlesme-yonetimi-blok span::before,
+.av_font_icon.ik-organizasyon-blok span::before,
+.av_font_icon.ik-secmeyerlestirme-blok span::before,
+.av_font_icon.ik-ozluk-blok span::before,
+.av_font_icon.ik-bordro-blok span::before,
+.av_font_icon.ik-isdegerleme-blok span::before,
+.av_font_icon.ik-performans-yonetimi-blok span::before,
+.av_font_icon.ik-egitim-blok span::before,
+.av_font_icon.ik-kariyer-blok span::before,
+.av_font_icon.ik-idariisler-blok span::before,
+.av_font_icon.ik-izin-blok span::before,
+.av_font_icon.ik-is-sagligi-blok span::before,
+.av_font_icon.ik-ucretyonetimi-blok span::before,
+.av_font_icon.ik-taseron-blok span::before,
+.av_font_icon.proje-yonetimi-blok-ico span::before,
+.av_font_icon.malzeme-ihtiyac-blok-ico span::before,
+.av_font_icon.by-talep-yonetimi-blok span::before,
+.av_font_icon.by-satin-alma-yonetimi-blok span::before,
+.av_font_icon.by-tedarikci-iliskileri-blok span::before,
+.av_font_icon.stok-yonetim-blok-ico span::before,
+.av_font_icon.depo-yonetim-blok-ico span::before,
+.av_font_icon.lojistik-yonetim-blok-ico span::before,
+.av_font_icon.kantar-islemleri-blok-ico span::before,
+.av_font_icon.tehlike-ico span::before,
+.av_font_icon.kasa-banka-blok-ico span::before,
+.av_font_icon.tehlike-yonetimi-blok-ico span::before,
+.av_font_icon.bilgi-yonetimi-blok-ico span::before,
+.av_font_icon.stok-yonetimi-ico span::before,
+.av_font_icon.ariza-yonetimi-ico span::before,
+.av_font_icon.risk-yonetimi-blok-ico span::before,
+.av_font_icon.ariza-yonetimi-blok-ico span::before,
+.av_font_icon.cek-senet-yonetimi-blok-ico span::before,
+.av_font_icon.stok-yonetimi-blok-ico span::before,
+.av_font_icon.nakit-akis-yonetimi-blok-ico span::before,
+.av_font_icon.duran-varlik-blok-ico span::before,
+.av_font_icon.analitik-blok-ico span::before,
+.av_font_icon.grup-muhasebesi-blok-ico span::before,
+.av_font_icon.kredi-leasing-blok-ico span::before,
+.av_font_icon.mali-tablolar-blok-ico span::before,
+.av_font_icon.e-beyanname-blok-ico span::before,
+.av_font_icon.tfrs-blok-ico span::before,
+.av_font_icon.resmi-defterler-blok-ico span::before,
+.av_font_icon.kalite-kontrol-blok-ico span::before,
+.av_font_icon.dokuman-blok-ico span::before,
+.av_font_icon.istatiksel-proses-blok-ico span::before,
+.av_font_icon.istatiksel-grafik-blok-ico span::before,
+.av_font_icon.tedarikci-degerlendirme-blok-ico span::before,
+.av_font_icon.dof-takibi-blok-ico span::before,
+.av_font_icon.kalibrasyon-takibi-blok-ico span::before,
+.av_font_icon.uyari-onay-blok-ico span::before,
+.av_font_icon.servis-blok-ico span::before,
+.av_font_icon.sevk-kabul-blok-ico span::before,
+.av_font_icon.urun-malzeme-blok-ico span::before,
+.av_font_icon.bakim-takip-blok-ico span::before,
+.av_font_icon.gecici-urun-blok-ico span::before,
+.av_font_icon.genel-butce-blok span::before,
+.av_font_icon.ek-butce-blok span::before,
+.av_font_icon.eticaret-yonetimi-blok span::before,
+.av_font_icon.ce-esneklik-blok span::before,
+.av_font_icon.ce-maliyet-blok span::before,
+.av_font_icon.ce-hizmet-blok span::before,
+.av_font_icon.e-defterler-blok-ico span::before{margin-left:50%;width:300px;height:300px;}
+.one-half, .one-third, .one-full{margin-bottom:0px;}
+.wpcf7-form .one-half{margin-bottom:0px;}
+input.wpcf7-form-control{height:46px !important;border-color:#e8e8e8 !important;}
+.tcknvkn_valid.has-error{border:1px solid #fc4c4c !important;}
+span.label.label-tcknvkn_valid {
+color: red !important;
+}
