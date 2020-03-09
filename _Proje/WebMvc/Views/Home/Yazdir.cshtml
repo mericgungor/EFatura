@@ -1,0 +1,16 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Yazdir</title>
+</head>
+<body>
+    @Html.RenderXml(ViewBag.XmlString as string, Server.MapPath("/App_data/general.xslt")) 
+</body>
+</html>
